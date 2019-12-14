@@ -1,0 +1,45 @@
+p {
+    font-family: 'Comfortaa', cursive;
+    color:white ;
+}
+body {
+     background: url(black5.jpg) no-repeat;
+     background-size: 100%;
+}
+nav ul {
+    background-color: black;
+      }	
+  nav ul li {
+      display: inline-block;
+      }
+  nav a {
+      display: block;
+      padding: 0 10px;
+      color: white;
+      font-size: 16px;
+      line-height: 40px;
+      text-decoration: none;
+  }
+  nav a:hover { 
+    background-color: #566DD6;
+  }
+
+h1{
+    font-family: 'Comfortaa', cursive;
+    color: black;
+}
+article {
+    margin-right: 450px;
+    color: white;
+    display: block;
+    text-align: top right;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
+   
