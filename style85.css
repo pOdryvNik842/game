@@ -1,5 +1,5 @@
 #one{
-    background-image:url(gora.jpg);
+    background-image:url(wer.jpg);
     background-size:cover;
     background-position:center;
     height:100vh;
@@ -9,36 +9,15 @@
     align-items:center;
     text-align:center;
     padding:0 20px;
-  color:white;
+    color:lightgray;
 }
 .button{
     font-size:18px;
     text-decoration:none;
     color:rgb(255, 255, 255);
-    border:#ffbd2fa9 8px solid;
+    border:#c7c7c7a9 8px solid;
     padding:10px 20px;
     border-radius:10px;
     margin-top:20px;
   }
-  #two{
-    background-image:url(banana.jpg);
-    background-size:cover;
-    background-position:center;
-    height:100vh;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    align-items:center;
-    text-align:center;
-    padding:0 20px;
-  color:white;
-  }
-  .button4{
-    font-size:18px;
-    text-decoration:none;
-    color:rgb(255, 255, 255);
-    border:#000000a9 8px solid;
-    padding:10px 20px;
-    border-radius:10px;
-    margin-top:20px;
-  }
+   
