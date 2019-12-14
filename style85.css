@@ -1,5 +1,5 @@
 #one{
-    background-image:url(wer.jpg);
+    background-image:url("wer.jpg");
     background-size:cover;
     background-position:center;
     height:100vh;
@@ -9,7 +9,7 @@
     align-items:center;
     text-align:center;
     padding:0 20px;
-    color:lightgray;
+    color:#778899;
 }
 .button{
     font-size:18px;
