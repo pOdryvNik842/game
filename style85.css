@@ -2,21 +2,21 @@
     background-image:url("wer.jpg");
     background-size:cover;
     background-position:center;
+    height:100"vh";
     display:flex;
     flex-direction:column;
     justify-content:center;
-    height:100"vh";
     align-items:center;
     text-align:center;
-    padding: 20"px";
+    padding:0 20"px";
     color:#778899;
 }
 .button{
-    font-size:18"px";
+    font-size:18px;
     text-decoration:none;
     color:rgb(255, 255, 255);
     border:#c7c7c7a9 8px solid;
-    padding:10"px" "20px";
+    padding:10"px" 20"px";
     border-radius:10"px";
     margin-top:20"px";
   }
