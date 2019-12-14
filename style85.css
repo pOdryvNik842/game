@@ -2,7 +2,7 @@
     background-image:url("wer.jpg");
     background-size:cover;
     background-position:center;
-    height:300px;
+    height:300vh;
     display:flex;
     flex-direction:column;
     justify-content:center;
