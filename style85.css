@@ -1,5 +1,5 @@
 #one{
-    background-image:url(wer.jpg);
+    background-image:url("wer.jpg");
     background-size:cover;
     background-position:center;
     display:flex;
