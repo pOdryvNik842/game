@@ -1,0 +1,49 @@
+p {
+    font-family: 'Comfortaa', cursive;
+    color: black;
+}
+body {
+     background: url(wal.jpg) no-repeat;
+     background-size: 100%;
+}
+nav ul {
+    background-color: black;
+      }	
+  nav ul li {
+      display: inline-block;
+      }
+  nav a {
+      display: block;
+      padding: 0 10px;
+      color: white;
+      font-size: 16px;
+      line-height: 40px;
+      text-decoration: none;
+  }
+  nav a:hover { 
+    background-color: #566DD6;
+  }
+  article {
+    margin-right: 450px;
+    color: white;
+    display: block;
+    text-align: top right;
+}
+h1{
+    font-family: 'Comfortaa', cursive;
+    color: black;
+}
+@media(max-width: 700px) {
+  * {
+    margin: 0;
+    padding: 0;
+   }
+   .right{
+       width: 100%;
+   }
+   .left{
+       width: 100%
+     }
+ }
+
+
