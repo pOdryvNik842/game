@@ -1,6 +1,6 @@
 #one{
     background-image:url("wer.jpg");
-   
+    background-size:cover;
     background-position:center;
     height:100vh;
     display:flex;
